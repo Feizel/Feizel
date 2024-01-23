@@ -23,7 +23,7 @@ I'm **Feizel** 👨🏽‍💻, a final-year IT & Computer Science student at th
   Besides programming, I enjoy reading about Space & Astronomy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="22px" height="22px" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="22px" height="22px" /> watching football <em>(Hala Madrid)</em> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" alt="Soccer Ball" width="22px" height="22px" /> playing video games <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="22px" height="22px" /> and making music <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="22px" height="22px" /> <em>(I wanna learn the piano someday)</em>. I dedicate a significant portion of my time to fitness & health, spirituality & mindfulness and the study of great historical pioneers.  
 </p>
 
-  <img align="center" alt="GIF" src="" />
+  <img align="center" alt="GIF" src="https://giphy.com/embed/5e25aUTZPcI94uMZgv" />
   
 **Talking about Personal Stuffs:**
 
