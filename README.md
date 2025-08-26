@@ -13,6 +13,10 @@ I'm **Feizel** 👨🏽‍💻, a IT & Computer Science alumni at the [Universit
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 <br/>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="400" />
+</p>
+
 <p>
   <em>
     I am an enthusiastically creative <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="22px" > with a passion for <b>Cloud Computing</b>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Dark%20Skin%20Tone.png" alt="Artist Dark Skin Tone" width="22px" height="22px"/>. I am a current intern at AWS, where I have found my love for cloud technologies and how they can help companies take advantage of limitless compute & storage capabilities. I value honest work through continuous self-improvement, constructive feedback & out-of-the-box thinking. I want a place to 
@@ -22,7 +26,9 @@ I'm **Feizel** 👨🏽‍💻, a IT & Computer Science alumni at the [Universit
   Besides programming, I enjoy reading about Space & Astronomy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="22px" height="22px" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="22px" height="22px" /> watching football <em>(Hala Madrid)</em> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" alt="Soccer Ball" width="22px" height="22px" /> playing video games <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="22px" height="22px" /> and making music <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="22px" height="22px" /> <em>(I wanna learn the piano someday)</em>. I dedicate a significant portion of my time to fitness & health, spirituality & mindfulness and the study of great historical pioneers.  
 </p>
 
-  <img align="center" alt="GIF" src="https://giphy.com/embed/5e25aUTZPcI94uMZgv" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated GIF" width="400" />
+</p>
   
 **Talking about Personal Stuffs:**
 
@@ -43,7 +49,7 @@ I'm **Feizel** 👨🏽‍💻, a IT & Computer Science alumni at the [Universit
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="60" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp; 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp; -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" title="Androidstudio" alt="Androidstudio" width="60" height="60"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="Vstudio" alt="Vstudio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
@@ -56,4 +62,4 @@ I'm **Feizel** 👨🏽‍💻, a IT & Computer Science alumni at the [Universit
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 
-Happy coding! 
+Happy coding!
