@@ -8,11 +8,6 @@ I'm **Feizel** 👨🏽‍💻, a IT & Computer Science alumni at the [Universit
   <img align="left" alt="Feizel | LinkdeIn" width="30px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" />
 </a>
 
-<br/>
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
-<br/>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="400" />
 </p>
